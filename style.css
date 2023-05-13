@@ -1,0 +1,187 @@
+.pta{
+   color: red;
+   text-align: center;
+}
+
+.one{
+    border-color: black;
+    background-color: red;
+}
+
+.two{
+    color: white;
+    font-family: Arial;
+    padding-inline-start: 330px;
+    margin-top: -70px;
+    padding-bottom: 20px;  
+    margin-left: 45px;
+}
+
+.B9{
+    width: 85px;
+    height: 85px;
+    margin: 100px;
+    margin-top: -650px;
+    margin-left: 50px;
+    margin-bottom: 110px;
+}
+
+.B10{
+    margin: 100px;
+    margin-top: -98px;
+    margin-left: 140px;
+    background-color: white;
+}
+
+.three{
+    padding-inline-start: 300px;
+    margin-top: -350px;
+    color: red;
+}
+
+.four{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.five{
+    padding-inline-start: 300px;
+    margin-top: -0px;
+    /* color: red; */
+    margin-left: 30px;
+}
+
+.six{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.seven{
+    padding-inline-start: 380px;
+    margin-top: -1px;
+    color: red;
+}
+
+.eight{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.nine{
+    padding-inline-start: 340px;
+    margin-top: -1px;
+}
+
+.ten{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.A{
+    padding-inline-start: 370px;
+    margin-top: -1px;
+    /* color: red; */
+}
+
+.B{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.C{
+    padding-inline-start: 380px;
+    margin-top: -1px;
+    /* color: red; */
+}
+
+.AB,.AC,.AD{
+    color: red;
+}
+
+.D{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+.E{
+    padding-inline-start: 340px;
+    margin-top: -1px;
+    /* color: red; */
+}
+
+.A1,.A2{
+    color: red;
+}
+
+.F{
+    padding-inline-start: 300px;
+    margin-top: -1px;
+    color: red;
+}
+
+
+
+
+.B1{
+    color: black;
+}
+
+.B2{
+    text-align: center;
+    text-underline-offset: -20px;
+    background-color: gray;
+}
+
+.B3{
+   margin-top: -107px;
+   border-collapse: collapse;
+}
+
+
+.c1{
+    background-color: gray;
+}
+
+.B4{
+    color: red;
+    margin-left: 40px;
+    border-left: 50px;
+}
+
+.B7{
+    margin-top: -102px;
+    padding: 80px;
+}
+
+.C2{
+    margin-left: 55px;
+    margin-top: 80px;
+    background-color: lightgray;
+    border-collapse: collapse;
+}
+
+.C4{
+    margin-left: 50px;
+}
+
+.Z{
+    padding-inline-start: 1000px;
+    margin-top: -120px;
+}
+
+.Z1{
+    color: white;
+    font-size: large;
+}
+
+.Z4{
+    font-size: large;
+}
+
+
